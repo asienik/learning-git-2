@@ -1,0 +1,17 @@
+.container {
+	text-align: center;
+}
+
+.jumbotron {
+	background-color: #eee;
+	width: 100%;
+}
+
+h1 {
+	font-size: 40px;
+	color: #0000CD;
+}
+
+h2 {
+	font-size: 30px;
+}
